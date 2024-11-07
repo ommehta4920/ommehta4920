@@ -1,7 +1,7 @@
-[! [MasterHead]("https://www.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_12821890.htm)]
+![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=1380)
 <h1 align="center">Hi 👋, I'm Om Mehta!</h1>
 <h3 align="center">I'm a Programmer and Developer!!</h3>
-<img align="right" alt="coding" width="400" src="https://payload-cms.codeb.dev/media/Difference%20between%20a%20Full%20Stack%20Developer%20and%20a%20Software%20Engineer-7.gif">
+<img align="right" alt="coding" width="50%" src="https://payload-cms.code-b.dev/media/Difference%20between%20a%20Full%20Stack%20Developer%20and%20a%20Software%20Engineer-7.gif">
 
 
 - 🔭 I’m currently working on **Car Ease: Car Rental Service**
