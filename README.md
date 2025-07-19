@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Car Ease: Car Rental Service**
 
-- 🌱 I’m currently learning **Power BI, Tableau, Machine Learning, SQL, Excel, SQL**
+- 🌱 I’m currently learning **Power BI, Tableau, Machine Learning, SQL, Excel, AI**
 
 - 💬 Ask me about **Excel, Power BI, SQL, Tableau**
 
